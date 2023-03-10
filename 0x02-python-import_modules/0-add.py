@@ -3,5 +3,4 @@ from add_0 import add:
     a = 1
     b = 2
 if __name__ == "__main__":
-    import sys
-    add(sys.argv[1], (sys.argv[2]))
+    print(a, b)
