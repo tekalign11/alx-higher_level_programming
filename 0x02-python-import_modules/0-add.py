@@ -1,8 +1,4 @@
 #!/usr/bin/python3
-def add_0: 
-    print(a + b)
-import add_0
-a = 1
-b = 2
-result = a + b
-add_0.add(result)
+import add from add_0
+a, b  = 1, 2
+print(add(a, b))
