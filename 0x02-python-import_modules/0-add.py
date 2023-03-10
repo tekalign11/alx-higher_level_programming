@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-def add(a, b):
+from add_o import add:
     a + b  = 1, 2
     print(add(a, b))
