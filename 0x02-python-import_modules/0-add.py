@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-def add(a, b):
+from add_0 import add:
     a = 1
     b = 2
-    print(a + b)
 if __name__ == "__main__":
     import sys
-    add(int(sys.argv[1],int(sys.argv[2]))
+    add(sys.argv[1], (sys.argv[2]))
