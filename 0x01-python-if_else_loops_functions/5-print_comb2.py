@@ -2,5 +2,5 @@
 for n in range(0, 100):
     if n == 99:
         print("{}".format(n))
-    elif:
+    else:
         print("{:02}".format(n), end=", ")
